@@ -2,9 +2,7 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "It is a To-Do List",
-  "scripts": {
-    "start":"node app.js"
-  },
+  "main":"index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
